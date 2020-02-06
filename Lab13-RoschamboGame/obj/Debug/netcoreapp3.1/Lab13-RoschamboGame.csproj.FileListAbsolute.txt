@@ -1,0 +1,11 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\bin\Debug\netcoreapp3.1\Lab13-RoschamboGame.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\bin\Debug\netcoreapp3.1\Lab13-RoschamboGame.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\bin\Debug\netcoreapp3.1\Lab13-RoschamboGame.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\bin\Debug\netcoreapp3.1\Lab13-RoschamboGame.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\bin\Debug\netcoreapp3.1\Lab13-RoschamboGame.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\bin\Debug\netcoreapp3.1\Lab13-RoschamboGame.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\obj\Debug\netcoreapp3.1\Lab13-RoschamboGame.csprojAssemblyReference.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\obj\Debug\netcoreapp3.1\Lab13-RoschamboGame.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\obj\Debug\netcoreapp3.1\Lab13-RoschamboGame.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\obj\Debug\netcoreapp3.1\Lab13-RoschamboGame.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\Lab13-RoschamboGame\Lab13-RoschamboGame\obj\Debug\netcoreapp3.1\Lab13-RoschamboGame.pdb
